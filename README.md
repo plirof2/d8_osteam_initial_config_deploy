@@ -13,3 +13,5 @@ b) it is suggested to add as dependencies the required modules. So you need only
 
 
 the skeleton is based on a sample EPAL project. Edit the files as required
+
+This is supposed to be an one-click initial installation module.
